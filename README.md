@@ -28,7 +28,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Upload de imagem do estabelecimento.
 - Seleção de endereço via mapa interativo.
 - Filtro de pontos por cidade, estado e itens de coleta (lâmpadas, pilhas, óleo, etc.).
-- Listagem de pontos de coleta próximos.
 
 ## <div align="center">📸 Telas do projeto</div>
 
